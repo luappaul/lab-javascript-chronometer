@@ -21,6 +21,9 @@ body {
 }
 
 #sphere {
+  background-image: url("../yFwE2PJv_400x400.png");
+  background-position: center;
+  background-size: 200px;
   border: 2px solid #000;
   border-radius: 20px;
   box-sizing: border-box;
@@ -111,7 +114,15 @@ body {
   right: 10px;
 }
 
-.btn.start { background: #5fca5f; }
-.btn.stop  { background: #f14949; }
-.btn.reset { background: #908e8e; }
-.btn.split { background: #0851ab; }
+.btn.start {
+  background: #5fca5f;
+}
+.btn.stop {
+  background: #f14949;
+}
+.btn.reset {
+  background: #908e8e;
+}
+.btn.split {
+  background: #0851ab;
+}
